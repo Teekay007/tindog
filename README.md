@@ -1,1 +1,1 @@
- project showing a Tinder dating site for dogs using HTML and CSS
+A project showing a Tinder dating site for dogs using HTML and CSS
